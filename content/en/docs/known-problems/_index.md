@@ -1,10 +1,13 @@
 ---
-title: "Common solutions for newcomers"
+title: "Known Problems"
 weight: 2
+bookCollapseSection: true
 # bookFlatSection: false
 # bookToc: 6
 # bookHidden: false
 ---
+
+# Common Solutions
 
 ## Common (generic) solutions for any kind of screen
 
